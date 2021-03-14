@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Creator : @imdakshvarshney
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @TroJanzSupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+Creator : @imdakshvarshney
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
