@@ -28,8 +28,8 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
-cd URLuploader-With-Hotstar
+git clone https://github.com/imdakshvarshney/Daksh-URL-Uploader-Bot-
+cd Daksh-URL-Uploader-Bot-
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
